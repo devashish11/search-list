@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Barot Belingham",
+        "shortName": "Barot_Belingham",
+        "reknown": "Royal Academy of Painting and Sculpture",
+        "bio": "Barot has just finished his final year"
+    },
+    {
+        "name": "Uday Kumar",
+        "shortName": "Uday_Kumar",
+        "reknown": "Royal Academy of Painting and Sculpture",
+        "bio": "Uday has just finished his final year"
+    },
+    {
+        "name": "Rohit Singh",
+        "shortName": "Rohit_Singh",
+        "reknown": "Royal Academy of Painting and Sculpture",
+        "bio": "Rohit has just finished his final year"
+    },
+    {
+        "name": "Rinku Singh",
+        "shortName": "Rinku_Singh",
+        "reknown": "Royal Academy of Painting and Sculpture",
+        "bio": "Rinku has just finished his final year"
+    },
+    {
+        "name": "Shivam Dube",
+        "shortName": "Shivam_Dube",
+        "reknown": "Royal Academy of Painting and Sculpture",
+        "bio": "Shivam has just finished his final year"
+    }
+]
